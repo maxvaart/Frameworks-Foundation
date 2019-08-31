@@ -1,0 +1,57 @@
+body{
+    background: url(../img/fondo.jpg) fixed;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.contenedor{
+    background-color: rgba(150,50,0,0.4);
+}
+.titulo{
+    border: solid 2px white;
+    border-radius: 15px;
+}
+.barizq{
+    margin-top: 15px;
+    background-color: white;
+    border-radius: 15px;
+}
+.comida{
+    border: solid 3px darkorange;
+    margin-top: 3px;
+}
+h4{
+    color: darkorange;
+}
+.slogan{
+    margin-top: 30px;
+    margin-right: 40%;
+}
+.central{
+    margin-top: 15px;
+    background-color: white;
+    border-radius: 15px;
+    padding-left: 20px;
+    padding-right:20px;
+}
+h1 , h2 , h3, h4{
+    font-family:serif;
+    font-weight: bold;
+}
+hr{
+    border: solid 1px darkorange;
+}
+.icono{
+    width: 20px;
+}
+.persona{
+    width: 70px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.comentarios{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: solid 1px darkorange;
+    border-radius: 15px;
+}
